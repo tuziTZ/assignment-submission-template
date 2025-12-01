@@ -1,0 +1,2 @@
+runId,timestamp,workload,dist,dataSize,numKeys,parts,duration_s,totalRecords,resultVal,totalMemory,freeMemory,maxMemory
+local-hash-repart-uniform-1000000-1000-8-1764050982,2025-11-25T14:09:46,repart,uniform,1000000,1000,8,1.128438239,1000000,1000000,1024458752,802431752,1024458752

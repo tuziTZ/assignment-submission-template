@@ -1,0 +1,2 @@
+runId,timestamp,workload,dist,dataSize,numKeys,parts,duration_s,totalRecords,resultVal,totalMemory,freeMemory,maxMemory
+local-hash-agg-uniform-1000000-1000-8-1764050962,2025-11-25T14:09:25,agg,uniform,1000000,1000,8,0.405143956,1000000,1000000.0,1029177344,744620912,1029177344

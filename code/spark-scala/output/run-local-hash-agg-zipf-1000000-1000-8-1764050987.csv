@@ -1,0 +1,2 @@
+runId,timestamp,workload,dist,dataSize,numKeys,parts,duration_s,totalRecords,resultVal,totalMemory,freeMemory,maxMemory
+local-hash-agg-zipf-1000000-1000-8-1764050987,2025-11-25T14:09:50,agg,zipf,1000000,1000,8,0.355815323,1000000,1000000.0,1029177344,780534072,1029177344

@@ -1,0 +1,2 @@
+runId,timestamp,workload,dist,dataSize,numKeys,parts,duration_s,totalRecords,resultVal,totalMemory,freeMemory,maxMemory
+local-hash-join-uniform-1000000-1000-8-1764050966,2025-11-25T14:09:41,join,uniform,1000000,1000,8,12.855578292,1000000,1000000000,1073217536,731216792,1073217536
